@@ -41,7 +41,7 @@ public class App implements CommandLineRunner {
 
 	private Author getAuthor() {
 		Author seung = new Author();
-		seung.setId(780704);
+		seung.setId(1);
 		seung.setAge(38);
 		seung.setName("Han SeungHyeon");
 
